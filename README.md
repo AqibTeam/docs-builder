@@ -5,7 +5,8 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/aqibteam/docs-builder.svg?style=flat-square)](https://scrutinizer-ci.com/g/aqibteam/docs-builder)
 [![Total Downloads](https://img.shields.io/packagist/dt/aqibteam/docs-builder.svg?style=flat-square)](https://packagist.org/packages/aqibteam/docs-builder)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+It has never been so easy to generate documentation ...
+
 
 ## Installation
 
@@ -13,18 +14,6 @@ You can install the package via composer:
 
 ```bash
 composer require aqibteam/docs-builder
-```
-
-## Usage
-
-``` php
-// Usage description here
-```
-
-### Testing
-
-``` bash
-composer test
 ```
 
 ### Changelog
